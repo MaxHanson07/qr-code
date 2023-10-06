@@ -15,14 +15,14 @@ p {
 .main {
     display: flex;
     justify-content: center;
-    margin-top: 25%;
+    margin-top: 15vw;
 }
 .card {
     justify-content: center;
     text-align: center;
     background-color: hsl(0, 0%, 100%);
     border-radius: 4%;
-    width: 52%;
+    width: 16vw;
 }
 
 .card img {
@@ -33,8 +33,8 @@ p {
 
 .card h3 {
     color: hsl(218, 44%, 22%);
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .card p {
@@ -45,9 +45,9 @@ p {
 }
 
 .attribution {
-    position: absolute;
     font-size: 11px;
     text-align: center;
+    margin-top: 15vw;
     bottom: 10px;
     left: 0;
     right: 0;
